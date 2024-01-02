@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+  color: black;
+  background-color: white;
+}
+
+#app{
+    margin: 100px auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+
+
+.male{
+    background-color: rgb(52, 192, 243);
+}
+
+.female{
+    background-color: pink;
+}
+button {
+  padding: 13px;
+  color: aliceblue;
+  border-radius: 30px;
+}
